@@ -3,6 +3,7 @@ No minicurso “Análise da Variação da Temperatura usando Python com Dados de
 
 #### Materiais:
 [Versão vazia](https://colab.research.google.com/drive/1IskS5qUow7w5xCWsEJZTHs4tZclpUOLO?usp=sharing)
+
 [Versão preenchida](https://colab.research.google.com/drive/1aD-8h0vEDMKl7huyzjP0D62AbqV2nXe5?usp=sharing)
 
 ### Tutorial de Acesso ao Google Earth Engine
